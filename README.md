@@ -1,7 +1,7 @@
 
   # Interiordesing
 
-  Note: Please ensure you have installed <code><a href="https://nodejs.org/en/download/">nodejs</a></code>
+  [![Desing-Interior.png](https://i.postimg.cc/vZ4qpBZm/Desing-Interior.png)](https://postimg.cc/QFrJ7j5L)
 
   To preview and run the project on your device:
   1) Open project folder in <a href="https://code.visualstudio.com/download">Visual Studio Code</a>
